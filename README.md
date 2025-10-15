@@ -1,6 +1,4 @@
-📘 Project Overview
-
-This project demonstrates the mathematical and visual foundation of modern GenAI and LLM applications — focusing on word embeddings, similarity computations, and contextual relationships using Word2Vec, CBOW, and Skip-Gram models.
+📘 Project Overview  This project demonstrates the mathematical and visual foundation of modern GenAI and LLM applications — focusing on word embeddings, similarity computations, and contextual relationships using Word2Vec, CBOW, and Skip-Gram models.
 It implements a semantic search pipeline capable of learning linguistic patterns, ranking contextual closeness, and visualizing high-dimensional vector spaces through PCA/t-SNE projections and heatmaps.
 
 The system serves as a miniature Retrieval-Augmented Generation (RAG) foundation, where vectorized text representations can be later integrated into GenAI workflows for document search, intent classification, or email categorization.
